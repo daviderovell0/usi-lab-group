@@ -1,24 +1,29 @@
 ---
 # Display name
 title: Patrick Eugster
+# url: 'https://www.inf.usi.ch/faculty/eugstp/'
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Role/position
 role:
   Full Professor USI
 
 
-  Adjunct Professor TU Darmstardt
+  Adjunct Professor TU Darmstadt
 
 
   Adjunct Professor Purdue
 
+
+  Visiting Professor MIT
+
+
 # Organizations/Affiliations
 organizations:
   - name: Stanford University
-    url: ''
+    url: 'https://www.inf.usi.ch/faculty/eugstp/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,7 +32,7 @@ interests:
   - Distributed Systems
   - Networks
   - Programming Languages
-  - Information Retrieval
+  - Security
 
 education:
   courses:
@@ -46,9 +51,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    link: https://www.inf.usi.ch/faculty/eugstp/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:eugstp@usi.ch'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -68,13 +75,13 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Researchers
+  # - Researchers
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

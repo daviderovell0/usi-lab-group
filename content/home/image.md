@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Come explore
-subtitle: our lab in the city of Lugano
+title: Explore our lab
+subtitle: in the city of Lugano
 
 design:
   columns: '2'
@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['100px', '100px', '100px', '100px']
+    padding: ['0px', '0px', '0px', '0px']
 advanced:
   css_class: fullscreen
 ---

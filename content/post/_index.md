@@ -8,4 +8,5 @@ view: compact
 banner:
   caption: ''
   image: 'lugano-scenic2.jpg'
+  image_size: contain
 ---

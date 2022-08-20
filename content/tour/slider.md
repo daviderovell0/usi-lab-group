@@ -20,18 +20,18 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
+        color: '#111'
         brightness: 1
-        # fit: "300x400"
-        # fit: cover
         media: explore-cliff.jpg
+        fit: cover
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
+        color: '#4373a0'
+        brightness: 1
+        fit: cover
         media: contact.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
@@ -40,6 +40,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
+        fit: cover
         media: welcome.jpg
       link:
         icon: graduation-cap

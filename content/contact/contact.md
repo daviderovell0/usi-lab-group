@@ -6,6 +6,8 @@ widget: contact
 # This file represents a page section.
 headless: true
 
+# active: false
+
 # Order that this section appears on the page.
 weight: 10
 
@@ -35,7 +37,7 @@ content:
   # contact_links:
   #  - icon: comments
   #    icon_pack: fas
-  #    name: Discuss on Forum
+  #    name: Discuss on discord
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
@@ -48,7 +50,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
