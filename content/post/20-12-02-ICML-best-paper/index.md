@@ -1,8 +1,8 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Project on cross-platform integry preservation supported by award from Facebook Research in Security
+date: 2022-08-02
 image:
-  focal_point: 'top'
+  focal_point: 'right'
 ---
 
 Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.

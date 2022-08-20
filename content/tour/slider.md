@@ -19,10 +19,12 @@ content:
       content: Take a look at what we're working on...
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
-        brightness: 0.7
-        media: coders.jpg
+        brightness: 1
+        # fit: "300x400"
+        # fit: cover
+        media: explore-cliff.jpg
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
