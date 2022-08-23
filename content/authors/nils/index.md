@@ -2,12 +2,11 @@
 # Display name
 title: Nils
 
-# Is this the primary user of the site?
-# superuser: true
-
 # Role/position
 role:
   Intern
+  # Researcher
+
 
 # Organizations/Affiliations
 organizations:
@@ -40,6 +39,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  # - icon: house
+  #   link: https://www.inf.usi.ch/postdoc/chuprikov/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
@@ -67,7 +68,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+    - Visitors
+  # - Principal Investigators
+  # - PostDocs
+  # - Researchers
+  # - Grad Students
+  # - Administration
+  # - Visitors
+  # - Alumni
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
