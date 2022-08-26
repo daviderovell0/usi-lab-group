@@ -68,6 +68,4 @@ user_groups:
   - Grad Students
 ---
 
-Shamiek is a researcher of security of distributed system at the USI Swystems Lab. His research interests include privacy-preserving computation, design of programming languages and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Some more bio.
+Shamiek is a researcher of security of distributed system at the USI Swystems Lab. His research interests include privacy-preserving computation, trusted execution environments, and design of programming languages.
