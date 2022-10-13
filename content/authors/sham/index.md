@@ -43,10 +43,10 @@ social:
     link: 'mailto:mangish@usi.ch'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/35sham
+    link: https://twitter.com/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk
   - icon: github
     icon_pack: fab
     link: https://github.com/shamiek
@@ -68,4 +68,4 @@ user_groups:
   - Grad Students
 ---
 
-Shamiek is a researcher of security of distributed system at the USI Swystems Lab. His research interests include privacy-preserving computation, trusted execution environments, and design of programming languages.
+Shamiek is a PhD student advised by Prof. Patrick Eugster at the Swystems Lab in Università della Svizzera Italiana (USI). His research focuses on security of distributed systems, particularly large-scale data processing applications, by providing formal end-to-end security guarantees which are ensured by having applications built using a novel security-aware programming language.
