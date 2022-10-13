@@ -17,7 +17,8 @@ organizations:
 bio: My research interests include security of distributed sytems, and design of programming languages which support privacy-preserving computation.
 
 interests:
-  - Security of distributed data processing applications
+  # - Security of distributed data processing applications
+  - Security
   - Distributed Systems
   - Programming Languages
 
