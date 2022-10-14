@@ -69,4 +69,4 @@ user_groups:
   - Grad Students
 ---
 
-Shamiek is a PhD student advised by Prof. Patrick Eugster at the Swystems Lab in Università della Svizzera Italiana (USI). His research is centered around ensuring security of distributed systems, with a particular focus on large-scale data processing applications, through the design and use of a novel security-aware programming language.
+Shamiek is a PhD student advised by Prof. Patrick Eugster at the Swystems Lab in Università della Svizzera Italiana (USI). His research is centered around ensuring security of distributed systems through the design and use of a novel security-aware programming language.
