@@ -1,5 +1,5 @@
 ---
-title: Project on cross-platform integry preservation supported by award from Facebook Research in Security
+title: Project on cross-platform integrity preservation supported by award from Facebook Research in Security
 date: 2022-08-02
 image:
   focal_point: 'center'
